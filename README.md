@@ -1,12 +1,9 @@
 - 👋 Hi, I’m HARSHITA BASERA
-- 👀 I’m interested in exploring and playing with data ...
-- 🌱 I’m currently learning Data Analysis ...
-- 💞️ I’m looking to collaborate on your ideas and with my work...
-- 📫 How to reach me https://www.linkedin.com/in/harshita-basera...
-- 😄 Pronouns:she/her ...
-- ⚡ Fun fact: when you provide data, I'll convert it into visualisation ...
-
-<!---
-HARSHITABASERA/HARSHITABASERA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in exploring and playing with data.
+- 🌱 I’m currently learning Data Analysis.
+- 💞️ I’m looking to collaborate on your ideas and with my work.
+- 📫 How to reach me https://www.linkedin.com/in/harshita-basera.
+- 😄 Pronouns:she/her.
+- ⚡ Fun fact: when you provide data, I'll convert it into visualisation.
+-  HARSHITABASERA/HARSHITABASERA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-  You can click the Preview link to take a look at your changes. 
