@@ -14,6 +14,7 @@
 - 💬 Ask me about **Data, Data and Data**
 - 📫 How to reach me **harshitabasera33@gmail.com**
 - ⚡ Fun fact **I am Adventurous about datas.**
+- 🔭 Checkout my all projects on **https://github.com/harshiabasera**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
