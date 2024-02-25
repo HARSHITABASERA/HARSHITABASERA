@@ -15,11 +15,14 @@
 - 📫 How to reach me **harshitabasera33@gmail.com**
 - ⚡ Fun fact **I am Adventurous about datas.**
 - 🔭 Checkout my all projects on **https://github.com/harshiabasera**
+- 💬 I am an Ardent Writer on **LinkedIn**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/harshita-basera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/harshita-basera" height="30" width="40" /></a>
 </p>
+
 
 
 
