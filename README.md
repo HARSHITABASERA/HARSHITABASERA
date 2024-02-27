@@ -9,13 +9,13 @@
 
 
 - 🔭 I’m currently Pursuing **Bachelor of Commerce**
-- 🌱 I’m currently building proficiency in **Power BI Excel SQL Python Data Analysis**
+- 🌱 I’m building proficiency in **Power BI Excel SQL Python Data Analysis**
 - 👯 I’m looking to collaborate on **Sharing Ideas and Building stuff**
 - 💬 Ask me about **Data, Data and Data**
 - 📫 How to reach me **harshitabasera33@gmail.com**
-- ⚡ Fun fact **I am Adventurous about datas.**
+- ⚡ Fun fact **My transition is in Process and Progress**
 - 🔭 Checkout my all projects on **https://github.com/harshiabasera**
-- 💬 I am an Ardent Writer on **LinkedIn**
+- 💬 I am an Ardent Writer on **LinkedIn, lets share ideas**
 
 
 <h3 align="left">Connect with me:</h3>
