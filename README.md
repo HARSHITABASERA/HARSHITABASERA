@@ -9,6 +9,7 @@
 
 
 - 🔭 I’m currently Pursuing **Bachelor of Commerce**
+- ⚡ I'm LinkedIn's **Top Data Analycis Voice**
 - 🌱 I’m building proficiency in **Power BI Excel SQL Python Data Analysis**
 - 👯 I’m looking to collaborate on **Sharing Ideas and Building stuff**
 - 💬 Ask me about **Data, Data and Data**
