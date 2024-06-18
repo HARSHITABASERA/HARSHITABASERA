@@ -9,7 +9,7 @@
 
 
 
-- ⚡ I'm LinkedIn's **#X Top Data Analycis Voice**
+- ⚡ I'm LinkedIn's **3X Top Data Analycis Voice**
 - 🌱 I’m building proficiency in **Power BI Excel SQL  Data Analysis**
 - 👯 I’m looking to collaborate on **Sharing Ideas and Building stuff**
 - 💬 Ask me about **Data, Data and Data**
